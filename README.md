@@ -47,6 +47,10 @@ There are two ways to run GPT4Free:
 - `gpt-4o`
 - `gpt-4`
 
+**Here is an image of me testing different GPT model:**
+
+![gpt_interaction](gpt_interaction.png)
+
 ---
 
 #### **My Experience with the Python Approach**
@@ -92,7 +96,7 @@ This method provides a chatbot interface where you can connect your own API keys
     > *If your browser blocks the pop-up, allow it as a one-time exception.*
 
     - A new browser window will open. Use this window to access the chatbot UI.
-    ![available_ports](available_ports.png)
+    ![available-ports](available-ports.png)
     ![select_port](select_port.png)
 
 5. Configure the UI:
